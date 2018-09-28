@@ -52,8 +52,8 @@
 * GAP遊戲頁： http://gaptaiwan.com.tw/cny/
 * 長榮介紹頁： http://747.evaair.com
 * 新光三越活動站： https://smileangel.skm.com.tw/
-* Bio-Essence介紹頁： http://cell.webgene.com.tw/technic/project/bio-essence/
-* Freeplus介紹頁： http://cell2.webgene.com.tw/freeplus_2018/
+* Bio-Essence介紹頁： https://bit.ly/2Ncgody
+* Freeplus介紹頁： https://bit.ly/2zBYvBn
 * 亞尼克介紹頁： https://www.yannick.com.tw/website_module.php?website_module_classify_sn=249
 
 #### 大型網站 (PHP CI)
