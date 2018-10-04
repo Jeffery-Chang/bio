@@ -55,12 +55,20 @@
 * Bio-Essence介紹頁： https://bit.ly/2Ncgody
 * Freeplus介紹頁： https://bit.ly/2zBYvBn
 * 亞尼克介紹頁： https://www.yannick.com.tw/website_module.php?website_module_classify_sn=249
+* 中國信託： https://www.ctbcbank.com/html/ebank/37Win/index.html
 
 #### 大型網站 (PHP CI)
 
 * 兒福-窮食大作戰： https://help.children.org.tw/
 * 兒福-助我長大： https://baby.children.org.tw/
 * 日旅網站： https://onemoretrip.tw/
+
+#### 重製網站 (VueJS)
+
+* 台達電子：https://bit.ly/2zQqKw1 (Vue、wow.js)
+* freeplus：https://bit.ly/2IGnSos (Vue、VueRouter、ScrollReveal)
+* bio-essense：https://bit.ly/2ydjW9X (Vue、VueX、wow.js、TweenMaxJS、vue-awesome-swiper、isMobileJS)
+* 長榮航空：https://bit.ly/2QoNSam (Nuxt、Vue、VueX、VueRouter、VueMeta、vue-parallax-js、vue-scrollto、v-show-slide、i18n、TweenMax、jQuery.Slick、jQuery.slick-carousel、)
 
 ## 自我介紹
 
