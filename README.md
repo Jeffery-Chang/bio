@@ -1,9 +1,11 @@
 ## About me - Jeffery
 
+```
 * Birthday : 1990/12/05
 * Education : 龍華科技大學 - 多媒體與遊戲發展科學系
 * Location : 台北市
 * E-Mail : e_love12134@hotmail.com
+```
 
 ## 工作經驗
 
@@ -23,14 +25,10 @@
 
 ## 技能
 
-* HTML
-* PUG
-* CSS
-* SCSS
-* Javascript
-* jQuery
-* Vue
-* VueX
+* HTML/PUG
+* CSS/SCSS
+* Javascript/jQuery
+* Vue/VueX
 * Nuxt
 * TweenMaxJS
 * Canvas
@@ -40,7 +38,6 @@
 
 ## 軟體
 
-* Adobe Bracket
 * VScode
 * Prepros
 
@@ -48,28 +45,29 @@
 ## 作品
 
 #### Campaign Site
-* GAP活動頁： http://gaptaiwan.com.tw/shareyourgift/
-* GAP遊戲頁： http://gaptaiwan.com.tw/cny/
-* 長榮介紹頁： http://747.evaair.com
-* 新光三越活動站： https://smileangel.skm.com.tw/
-* Bio-Essence介紹頁： https://bit.ly/2Ncgody
-* Freeplus介紹頁： https://bit.ly/2zBYvBn
-* 亞尼克介紹頁： https://www.yannick.com.tw/website_module.php?website_module_classify_sn=249
-* 中國信託： https://www.ctbcbank.com/html/ebank/37Win/index.html
-* 台達電子： https://www.104.com.tw/cfdocs/project/1711/171124_delta_hr/index.htm
+
+1. GAP活動頁： http://gaptaiwan.com.tw/shareyourgift/
+1. GAP遊戲頁： http://gaptaiwan.com.tw/cny/
+1. 長榮介紹頁： http://747.evaair.com
+1. 新光三越活動站： https://smileangel.skm.com.tw/
+1. Bio-Essence介紹頁： https://bit.ly/2Ncgody
+1. Freeplus介紹頁： https://bit.ly/2zBYvBn
+1. 亞尼克介紹頁： https://www.yannick.com.tw/website_module.php?website_module_classify_sn=249
+1. 中國信託： https://www.ctbcbank.com/html/ebank/37Win/index.html
+1. 台達電子： https://www.104.com.tw/cfdocs/project/1711/171124_delta_hr/index.htm
 
 #### 大型網站 (PHP CI)
 
-* 兒福-窮食大作戰： https://help.children.org.tw/
-* 兒福-助我長大： https://baby.children.org.tw/
-* 日旅網站： https://onemoretrip.tw/
+1. 兒福-窮食大作戰： https://help.children.org.tw/
+1. 兒福-助我長大： https://baby.children.org.tw/
+1. 日旅網站： https://onemoretrip.tw/
 
 #### 重製網站 (VueJS)
 
-* 台達電子：https://bit.ly/2zQqKw1 (Vue、wow.js)
-* freeplus：https://bit.ly/2IGnSos (Vue、VueRouter、ScrollReveal)
-* bio-essense：https://bit.ly/2ydjW9X (Vue、VueX、wow.js、TweenMaxJS、vue-awesome-swiper、isMobileJS)
-* 長榮航空：https://bit.ly/2QoNSam (Nuxt、Vue、VueX、VueRouter、VueMeta、vue-parallax-js、vue-scrollto、v-show-slide、i18n、TweenMax、jQuery.Slick、jQuery.slick-carousel)
+1. 台達電子：https://bit.ly/2zQqKw1 (Vue、wow.js)
+1. freeplus：https://bit.ly/2IGnSos (Vue、VueRouter、ScrollReveal)
+1. bio-essense：https://bit.ly/2ydjW9X (Vue、VueX、wow.js、TweenMaxJS、vue-awesome-swiper、isMobileJS)
+1. 長榮航空：https://bit.ly/2QoNSam (Nuxt、Vue、VueX、VueRouter、VueMeta、vue-parallax-js、vue-scrollto、v-show-slide、i18n、TweenMax、jQuery.Slick、jQuery.slick-carousel)
 
 ## 自我介紹
 
