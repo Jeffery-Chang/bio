@@ -64,10 +64,12 @@
 
 #### 重製網站 (VueJS)
 
-1. 台達電子：https://bit.ly/2zQqKw1 (Vue、wow.js)
-1. freeplus：https://bit.ly/2IGnSos (Vue、VueRouter、ScrollReveal)
-1. bio-essense：https://bit.ly/2ydjW9X (Vue、VueX、wow.js、TweenMaxJS、vue-awesome-swiper、isMobileJS)
-1. 長榮航空：https://bit.ly/2QoNSam (Nuxt、Vue、VueX、VueRouter、VueMeta、vue-parallax-js、vue-scrollto、v-show-slide、i18n、TweenMax、jQuery.Slick、jQuery.slick-carousel)
+|NAME|URL|USE|
+|--|--|---|
+| 台達電子 | https://bit.ly/2zQqKw1 | Vue、wow.js |
+| freeplus | https://bit.ly/2IGnSos | Vue、VueRouter、ScrollReveal |
+| bio-essense | https://bit.ly/2ydjW9X | Vue、VueX、wow.js、TweenMaxJS、vue-awesome-swiper、isMobileJS |
+| 長榮航空 | https://bit.ly/2QoNSam | Nuxt、Vue、VueX、VueRouter、VueMeta、vue-parallax-js、vue-scrollto、v-show-slide、i18n、TweenMax、jQuery.Slick、jQuery.slick-carousel |
 
 ## 自我介紹
 
