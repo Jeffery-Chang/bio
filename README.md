@@ -9,12 +9,12 @@
 
 ## 工作經驗
 
-#### 科威資訊（ Cowell ）- 2014/08 ~ 2016/06
+#### 富蘭克林投顧（ Franklin ）- 2018/11 ~ 至今
 
-* 撰寫 asp 程式。
-* 串接 msSQL 資料庫。
-* 維護 ERP 系統的運作。
-* 配合客服查找 ERP 系統中的邏輯規則及bug。
+* 活動網站的程式及動態效果撰寫。
+* 與後端配合 api 串接 （.NET / PHP）。
+* 與企劃評估程式製作時程及程式所及範圍。
+* 使用版本控制系統 Git 進行專案版控。
 
 #### 網路基因（ WebGene ）- 2016/07 ~ 2018/10
 
@@ -23,12 +23,12 @@
 * 與企劃評估程式製作時程及程式所及範圍。
 * 使用版本控制系統 Git 進行專案版控。
 
-#### 富蘭克林投顧（ Franklin ）- 2018/11 ~ 至今
+#### 科威資訊（ Cowell ）- 2014/08 ~ 2016/06
 
-* 活動網站的程式及動態效果撰寫。
-* 與後端配合 api 串接 （.NET / PHP）。
-* 與企劃評估程式製作時程及程式所及範圍。
-* 使用版本控制系統 Git 進行專案版控。
+* 撰寫 asp 程式。
+* 串接 msSQL 資料庫。
+* 維護 ERP 系統的運作。
+* 配合客服查找 ERP 系統中的邏輯規則及bug。
 
 ## 技能
 
@@ -47,21 +47,29 @@
 
 * VScode
 * Prepros
+* SourceTree
 
 
 ## 作品
 
-#### Campaign Site
+### 線上作品
 
+1. 富蘭克林投顧線上開戶： https://etrade.franklin.com.tw/OpenAccount/#/index
+2. 富蘭克林華美投信線上開戶： https://etrade.ftft.com.tw/open/#/newStep1
+3. 各式留名單活動網站
+
+### 已下架
+```
 1. GAP活動頁： http://gaptaiwan.com.tw/shareyourgift/
-1. GAP遊戲頁： http://gaptaiwan.com.tw/cny/
-1. 長榮介紹頁： http://747.evaair.com
-1. 新光三越活動站： https://smileangel.skm.com.tw/
-1. Bio-Essence介紹頁： https://bit.ly/2Ncgody
-1. Freeplus介紹頁： https://bit.ly/2zBYvBn
-1. 亞尼克介紹頁： https://www.yannick.com.tw/website_module.php?website_module_classify_sn=249
-1. 中國信託： https://www.ctbcbank.com/html/ebank/37Win/index.html
-1. 台達電子： https://www.104.com.tw/cfdocs/project/1711/171124_delta_hr/index.htm
+2. GAP遊戲頁： http://gaptaiwan.com.tw/cny/
+3. 長榮介紹頁： http://747.evaair.com
+4. 新光三越活動站： https://smileangel.skm.com.tw/
+5. Bio-Essence介紹頁： https://bit.ly/2Ncgody
+6. Freeplus介紹頁： https://bit.ly/2zBYvBn
+7. 亞尼克介紹頁： https://www.yannick.com.tw/website_module.php?website_module_classify_sn=249
+8. 中國信託： https://www.ctbcbank.com/html/ebank/37Win/index.html
+9. 台達電子： https://www.104.com.tw/cfdocs/project/1711/171124_delta_hr/index.htm
+```
 
 #### 大型網站 (PHP CI)
 
@@ -71,12 +79,12 @@
 
 #### 重製網站 (VueJS)
 
-|NAME|URL|USE|
-|--|--|---|
-| 台達電子 | https://bit.ly/2zQqKw1 | Vue、wow.js |
-| freeplus | https://bit.ly/2IGnSos | Vue、VueRouter、ScrollReveal |
-| bio-essense | https://bit.ly/2ydjW9X | Vue、VueX、wow.js、TweenMaxJS、vue-awesome-swiper、isMobileJS |
-| 長榮航空 | https://bit.ly/2QoNSam | Nuxt、Vue、VueX、VueRouter、VueMeta、vue-parallax-js、vue-scrollto、v-show-slide、i18n、TweenMax、jQuery.Slick、jQuery.slick-carousel |
+|NAME|USE|
+|--|---|
+| 台達電子 | Vue、wow.js |
+| freeplus | Vue、VueRouter、ScrollReveal |
+| bio-essense | Vue、VueX、wow.js、TweenMaxJS、vue-awesome-swiper、isMobileJS |
+| 長榮航空 | Nuxt、Vue、VueX、VueRouter、VueMeta、vue-parallax-js、vue-scrollto、v-show-slide、i18n、TweenMax、jQuery.Slick、jQuery.slick-carousel |
 
 ## 自我介紹
 
