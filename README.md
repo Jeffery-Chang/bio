@@ -57,8 +57,8 @@
 
 ### 線上作品
 
-1. 富蘭克林投顧線上開戶： https://etrade.franklin.com.tw/OpenAccount/#/index
-2. 富蘭克林華美投信線上開戶： https://etrade.ftft.com.tw/open/#/newStep1
+1. 富蘭克林投顧線上開戶： https://etrade.franklin.com.tw/OpenAccount/#/index `已交接且修改過`
+2. 富蘭克林華美投信線上開戶： https://etrade.ftft.com.tw/open/#/newStep1 `已交接且修改過`
 3. 各式留名單活動網站
 
 ### 已下架
